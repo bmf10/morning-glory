@@ -95,7 +95,7 @@ export default function Category() {
           },
           {
             accessorKey: 'description',
-            header: 'Description',
+            header: 'Keterangan',
           },
         ]}
       />
