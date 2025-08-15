@@ -7,7 +7,7 @@ import { SortingState } from '@tanstack/react-table'
 import axios from 'axios'
 import { useState, useMemo } from 'react'
 
-interface Cell {
+type Cell = {
   row: {
     original: {
       product?: {

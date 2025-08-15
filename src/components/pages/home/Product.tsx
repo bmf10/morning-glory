@@ -9,7 +9,7 @@ import { useState, useMemo } from 'react'
 import { format } from 'date-fns'
 import { id } from 'date-fns/locale'
 
-interface Cell {
+type Cell = {
   row: {
     original: {
         category: { name?: string }
