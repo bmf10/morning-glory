@@ -35,8 +35,8 @@ Morning Glory Test
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone 
-cd your-repo
+git clone https://github.com/bmf10/morning-glory.git
+cd morning-glory
 ```
 
 ### 2️⃣ Install Dependencies
